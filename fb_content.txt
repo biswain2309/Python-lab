@@ -1,0 +1,1 @@
+b'{\n  "args": {}, \n  "headers": {\n    "Accept": "*/*", \n    "Accept-Encoding": "gzip, deflate", \n    "Host": "httpbin.org", \n    "User-Agent": "python-requests/2.22.0"\n  }, \n  "origin": "106.193.138.142, 106.193.138.142", \n  "url": "https://httpbin.org/get"\n}\n'
