@@ -1,4 +1,4 @@
-Python school is all about learning and applying the knowledge through making interesting projects. Solving day to day problems with automation scripting, web scrapping and API handling. Playing around with data and displaying useful insights in form of graphs or excel. At the end of the lab you will talk to **travis the chatbot** and play games like **TIC TAC TOE**.
+Python school is all about learning and applying the knowledge through making interesting projects. Solving day to day problems with automation scripting, web scrapping and API handling. Learn about core modules like OS, JSON and Requests. Playing around with data and displaying useful insights in form of graphs or excel. At the end of the lab you will talk to **travis the chatbot** and play games like **TIC TAC TOE**.
 
 
 ## Projects
